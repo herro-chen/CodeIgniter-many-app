@@ -8,6 +8,14 @@ home/logs/*
 !home/logs/index.html
 !home/logs/.htaccess
 
+db_proxy/cache/*
+!db_proxy/cache/index.html
+!db_proxy/cache/.htaccess
+
+db_proxy/logs/*
+!db_proxy/logs/index.html
+!db_proxy/logs/.htaccess
+
 /vendor/
 
 # IDE Files
